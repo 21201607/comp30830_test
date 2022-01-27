@@ -2,5 +2,8 @@ name: comp30830
 channels:
   - defaults
 dependencies:
-  - python
+  - numpy
+  - pandas
+  - python=3.9
+  - jupyterlab
 prefix: /opt/anaconda3/envs/comp30830
